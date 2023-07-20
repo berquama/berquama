@@ -9,7 +9,7 @@ I love to explore the fascinating world of technology and software development, 
 - 🎓 Associates in Computer Software Development
 - 🔭 I’m currently working on pursuing a Web Development position
 - 📫 How to reach me: berquama@gmail.com
-- [LinkedIn](Your LinkedIn Profile URL)
+- www.linkedin.com/in/austinberquam
 
 ## Tech Stack
 
