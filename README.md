@@ -5,9 +5,8 @@ I love to explore the fascinating world of technology and software development, 
 
 ## About Me
 
-- 💻 Student Data Specialist
-- 🎓 Associates in Computer Software Development
-- 🔭 I’m currently working on pursuing a Web Development position
+- 💻 Systems Support Analayst
+- 🎓 Degree in Computer Software Development
 - 📫 How to reach me: berquama@gmail.com
 - www.linkedin.com/in/austinberquam
 
