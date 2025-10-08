@@ -7,7 +7,7 @@ I love to explore the fascinating world of technology and software development, 
 
 - 💻 Systems Support Analayst
 - 🎓 Degree in Computer Software Development
-- 📫 How to reach me: berquama@gmail.com
+- 📫 How to reach me: berquama@proton.me
 - www.linkedin.com/in/austinberquam
 
 ## Tech Stack
